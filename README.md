@@ -1,4 +1,4 @@
-# Lecture/workshop slides and wiki for Computational Futures Unit [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2022/2023 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
+# Lecture/workshop slides and wiki for Computational Futures Unit of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2022/2023 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
 
 ## Information
 
