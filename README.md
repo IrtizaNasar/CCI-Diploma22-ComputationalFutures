@@ -96,13 +96,13 @@ Students will learn about the the relationship between AI and machine learning, 
 
 #### Primary
 
-Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources,” AI Now Institute and Share Lab, (September 7, 2018)  
+- Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources,” AI Now Institute and Share Lab, (September 7, 2018)  
 
 [https://anatomyof.ai](https://anatomyof.ai) 
 
 #### Secondary
 
-Pasquinelli, M. and Joler, V., 2020. The Nooscope manifested: AI as instrument of knowledge extractivism. AI & society, pp.1-18.
+- Pasquinelli, M. and Joler, V., 2020. The Nooscope manifested: AI as instrument of knowledge extractivism. AI & society, pp.1-18.
 
 
 ## Week 2: Datasets and Platform Labour
@@ -115,7 +115,7 @@ This week introduces students to the concept of data + datasets. We’ll explore
 
 #### Primary
 
-Malevé, N. On the data set's ruins. Al & Soc (2020).
-Lev Manovich, "Data," in Critical Terms in Futures Studies, ed. Paul Heike, Palgrave, 2019.
+- Malevé, N. On the data set's ruins. Al & Soc (2020).
+- Lev Manovich, "Data," in Critical Terms in Futures Studies, ed. Paul Heike, Palgrave, 2019.
 
 
