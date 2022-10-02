@@ -3,7 +3,7 @@
 ## Information
 
 - [All term dates](https://www.arts.ac.uk/students/term-dates) 
-- Lecturers: Irti 
+- Lecturers: Irti, Murad Khan, Pauline, Nicola
 - Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at the Greencoat Building.
 - Contact us via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
 - Weekly Unit teaching times are every Thursday 09:30-13:30.
@@ -70,7 +70,7 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
 
 N.B. The Diploma is assessed to [Level 5 Assessment Criteria Descriptors](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment) - see the link to the PDF at the bottom of this page.
 
-At the end of this block (midway through the 2022 Spring term) you should have the following outcomes, with subheadings for methods and platforms we will use to do so. To be clear, I want you to obtain knowledge and then use that to make projects. My aim is to have every student graduate with new creative computing core knowledge and a portfolio of projects that relate that new creative computing knowledge to their chosen BA subject elsewhere at University of the Arts London (UAL).
+<!-- At the end of this block (midway through the 2022 Spring term) you should have the following outcomes, with subheadings for methods and platforms we will use to do so. To be clear, I want you to obtain knowledge and then use that to make projects. My aim is to have every student graduate with new creative computing core knowledge and a portfolio of projects that relate that new creative computing knowledge to their chosen BA subject elsewhere at University of the Arts London (UAL). -->
 
 <!-- ### Unit 1 / Block 1: "Creative coding and creative computing frameworks"
 
@@ -128,7 +128,7 @@ Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104
 
 <!-- ## Block 1, Unit 1 schedule: -->
 
-## Week 1 - Thursday 29th September 2022 - Introduction to the course:
+## Week 1 - Thursday 29th September 2022 - Machines, Materials and Methaphors:
 
 <!-- ### Hour 1 
 
