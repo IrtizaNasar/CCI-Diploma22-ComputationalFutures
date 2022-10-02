@@ -1,4 +1,4 @@
-# Lecture/workshop slides and wiki for Unit 1 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2022/2023 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
+# Lecture/workshop slides and wiki for Computational Futures Unit [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2022/2023 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
 
 ## Information
 
@@ -6,7 +6,7 @@
 - Lecturers: Irti 
 - Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at the Greencoat Building.
 - Contact us via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- Weekly Unit teaching times are every Monday 09:30-13:30.
+- Weekly Unit teaching times are every Thursday 09:30-13:30.
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
 <!-- - Tutorials take place every Monday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
   - Remote session 1: Mondays 1030-1300.
@@ -49,7 +49,7 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 
 **Block 2** consists of three units:
 
-- Unit 4: Coding for Collaborative App Development 
+- Unit 4: Creative Coding: Critical Infrastructures 
 - Unit 5: Working and the Digital Creative Industries 
 - Unit 6: Creative Practice: Computational Environments 
 
@@ -72,23 +72,23 @@ N.B. The Diploma is assessed to [Level 5 Assessment Criteria Descriptors](https:
 
 At the end of this block (midway through the 2022 Spring term) you should have the following outcomes, with subheadings for methods and platforms we will use to do so. To be clear, I want you to obtain knowledge and then use that to make projects. My aim is to have every student graduate with new creative computing core knowledge and a portfolio of projects that relate that new creative computing knowledge to their chosen BA subject elsewhere at University of the Arts London (UAL).
 
-### Unit 1 / Block 1: "Creative coding and creative computing frameworks"
+<!-- ### Unit 1 / Block 1: "Creative coding and creative computing frameworks"
 
 1. Code creative computing assets in relevant languages (_Knowledge_, _Process_)
 
 - [JavaScript](https://en.m.wikipedia.org/wiki/JavaScript)
-<!-- - [C++](https://en.m.wikipedia.org/wiki/C++) -->
+- [C++](https://en.m.wikipedia.org/wiki/C++) -->
 
-2. Understand the use of key frameworks for creative computing (_Knowledge_, _Process_)
+<!-- 2. Understand the use of key frameworks for creative computing (_Knowledge_, _Process_)
 
 - [p5.js](https://p5js.org/)
-<!-- - [openFrameworks](https://openframeworks.cc/) -->
+- [openFrameworks](https://openframeworks.cc/) -->
 
-3. Use online tools to collaborate and support your creative computing projects (_Enquiry_, _Communication_)
+<!-- 3. Use online tools to collaborate and support your creative computing projects (_Enquiry_, _Communication_)
 
 - [Slack](https://slack.com/)
 - [p5.js editor](https://editor.p5js.org/)
-- [GitHub](https://github.com/)
+- [GitHub](https://github.com/) -->
 
 <!-- ### Teaching Style
 
@@ -102,11 +102,11 @@ _**You are expected to undertake independent study of 25 hours per week over the
 
 ## Assessment
 
-At the end of Block 1 (halfway through the Spring Term) and at the end of Block 2 (at the end of the Summer Term), you will be assessed individually. The two units I teach (Unit 1 and Unit 4) are assessed in the same way, via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 hour to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 2 hours to complete the Practical Exam.
+<!-- At the end of Block 1 (halfway through the Spring Term) and at the end of Block 2 (at the end of the Summer Term), you will be assessed individually. The two units I teach (Unit 1 and Unit 4) are assessed in the same way, via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 hour to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 2 hours to complete the Practical Exam.
 
 I would STRONGLY encourage you to complete the mocks when I issue them for both Units 1 and 4 multiple choice/practical exams - not just to practice them, but to practice SUBMITTING your work - last year I had several students fail exams because they submitted the wrong files for their practical exams, or didn't submit their multiple choice tests correctly.
 
-You can find [the first year of the Diploma Unit 1 Multiple Choice test here](https://jgl.github.io/CCIDiploma-AutumnWinter2020/pdf/2020_01_20_Unit1MultipleChoiceTest.pdf) and [the first year of the Diploma Unit 1 Practical exam here](https://jgl.github.io/CCIDiploma-AutumnWinter2020/pdf/2020_01_27_Unit1PracticalExam.pdf).
+You can find [the first year of the Diploma Unit 1 Multiple Choice test here](https://jgl.github.io/CCIDiploma-AutumnWinter2020/pdf/2020_01_20_Unit1MultipleChoiceTest.pdf) and [the first year of the Diploma Unit 1 Practical exam here](https://jgl.github.io/CCIDiploma-AutumnWinter2020/pdf/2020_01_27_Unit1PracticalExam.pdf). -->
 
 <!-- Units 2 and 5 are assessed via an essay.
 
@@ -128,9 +128,9 @@ Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104
 
 <!-- ## Block 1, Unit 1 schedule: -->
 
-## Week 1 - Monday 26th September 2022 - Introduction to the course:
+## Week 1 - Thursday 29th September 2022 - Introduction to the course:
 
-### Hour 1 
+<!-- ### Hour 1 
 
 
 - Introduction to the diploma - Murad (30 Mins) 
@@ -195,20 +195,9 @@ Trevorssah, A. 2016. A Brief History of the Command Line. Free Code Camp. https:
 
 Ritchie, D.M. 1977. The UNIX Time-sharing System - A Retrospective*. Bell Laboratories. 
 
-YoHa. 2013. Lions’ Commentary on UNIX 6th Edition, with Source Code. http://yoha.co.uk/node/678. 
+YoHa. 2013. Lions’ Commentary on UNIX 6th Edition, with Source Code. http://yoha.co.uk/node/678.  -->
 
 <br>
 
-## Week 2 - Monday 3rd October 2022 - Introduction to HTML, JavaScript libraries + ‘Computational Thinking’ :
+## Week 2 -  :
 
-<!-- See the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) for a link to the Collaborate Ultra Session for this week.
-
-- 1000-1100: **Introduction lecture** - via Collaborate Ultra on Moodle, watch my introduction lecture on the course, creative coding, JavaScript and specifically p5.js. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_00.html).
-- 1100-1200: via Collaborate Ultra on Moodle particpate in the [**Introduction workshop**](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/workshop_00.html) - signing up for websites, introducing yourselves and having a discussion about the unit and course.
-- 1200-1300: **Watch/listen 1** - via Collaborate Ultra on Moodle absorb a lecture from me on Counting and Remembering, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2021/slides/lecture_01.html).
-
-
-
-<!-- ## Thanks
-
-Thanks to Matthew Plummer-Fernández, Murad Khan, Matt Pyke, Andy Cameron, JT Nimoy, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen. -->
