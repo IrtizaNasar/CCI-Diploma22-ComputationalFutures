@@ -1,22 +1,15 @@
-# Lecture/workshop slides and wiki for Computational Futures Unit of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2022/2023 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
+# Lecture/workshop slides and wiki for Computational Futures Unit [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2022/2023 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
 
 ## Information
 
 - [All term dates](https://www.arts.ac.uk/students/term-dates) 
-- Lecturers: Irti, Murad Khan, Pauline, Nicola
-- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at the Greencoat Building.
+- Lecturers: Murad Khan, Irti Nasar, Nicola Plant, Pauline van Mourik Broekmann
+- [Moodle Page](https://moodle.arts.ac.uk/course/view.php?id=71218)
+- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at the Greencoat Building on Wilson Road. 
 - Contact us via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
 - Weekly Unit teaching times are every Thursday 09:30-13:30.
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
-<!-- - Tutorials take place every Monday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
-  - Remote session 1: Mondays 1030-1300.
-  - Remote session 2: Mondays 1400-1730. -->
-  <!-- - Please see the [Unit 1 Wiki Tutorial Schedule](https://github.com/JGL/CCIDiploma-AutumnWinter2021/wiki/Tutorial-Schedule) for details of when **your next** tutorial will be. -->
-<!-- - If **your next** tutorial is too far away, or you have a more urgent question, please message me on the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com). -->
-<!-- - [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63591) - see the Unit 1 Moodle for links to Collaborate Ultra links to our remote sessions. -->
-<!-- - [Lecture and Workshop slides](https://jgl.github.io/CCIDiploma-AutumnWinter2021/) -->
-<!-- - Please see the [Unit 1 Wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/CCIDiploma-AutumnWinter2021/wiki). -->
-<!-- - [Take a look at the student/crowd sourced set of notes on all of Block 1 from last years Diplomats!](https://github.com/rociorey/cci-2020/wiki). -->
+
 - [The Library Services Web pages aim to provide quick access to a range of relevant high quality e-resources](https://www.arts.ac.uk/students/library-services). Benelia Salmon is the Academic Support Librarian for CCI: [b.salmon@arts.ac.uk](mailto:b.salmon@arts.ac.uk). Please contact her at the email address above if you have any questions regarding library resources or if you wish to book a one-to-one session on library information and research skills. You can find more information on CCI specific library resources in your [Creative Computing Institute subject guide](https://arts.ac.libguides.com/CCI).
 - LinkedIn Learning (formally Lynda.com) is also a great resource for learning software packages, coding or even 3D tools like Blender. You can find a link to LinkedIn Learning on <https://canvas.arts.ac.uk/>.
 - <https://wiki.cci.arts.ac.uk/> is the Wiki for all of CCI, lots of resources and tutorial there about equipment, software and content on Physical Computing, Creative Code and Digital Making.
@@ -70,134 +63,59 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
 
 N.B. The Diploma is assessed to [Level 5 Assessment Criteria Descriptors](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment) - see the link to the PDF at the bottom of this page.
 
-<!-- At the end of this block (midway through the 2022 Spring term) you should have the following outcomes, with subheadings for methods and platforms we will use to do so. To be clear, I want you to obtain knowledge and then use that to make projects. My aim is to have every student graduate with new creative computing core knowledge and a portfolio of projects that relate that new creative computing knowledge to their chosen BA subject elsewhere at University of the Arts London (UAL). -->
+### Unit Learning Objectives
 
-<!-- ### Unit 1 / Block 1: "Creative coding and creative computing frameworks"
+| No  | Outcome                                                               |
+| --- | --------------------------------------------------------------------- | 
+| LO1 | Understand how machine learning works in practice (Knowledge, Process)| 
+| LO2 | Understand Artificial Intelligence as a cultural concept (Enquiry)    |
+| L03 | Critically discuss computational futures (Enquiry, Communication)     |
 
-1. Code creative computing assets in relevant languages (_Knowledge_, _Process_)
-
-- [JavaScript](https://en.m.wikipedia.org/wiki/JavaScript)
-- [C++](https://en.m.wikipedia.org/wiki/C++) -->
-
-<!-- 2. Understand the use of key frameworks for creative computing (_Knowledge_, _Process_)
-
-- [p5.js](https://p5js.org/)
-- [openFrameworks](https://openframeworks.cc/) -->
-
-<!-- 3. Use online tools to collaborate and support your creative computing projects (_Enquiry_, _Communication_)
-
-- [Slack](https://slack.com/)
-- [p5.js editor](https://editor.p5js.org/)
-- [GitHub](https://github.com/) -->
-
-<!-- ### Teaching Style
-
-I want to spend as much time working through problems and discussing them together, rather than you listening to me lecture. Each Tuesday's teaching session will be structured in the following way:
-
-- Hour 1: 0930-1030: **Explore/engage** - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: 1045-1145: **Experiment/play** - work on creative code exercises based on the previous week's lecture, our discussion in the previous hour and excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/).
-- Hour 3: 1200-1300: **Watch/listen** - absorb a lecture from me, in preparation for next weeks session.
-
-_**You are expected to undertake independent study of 25 hours per week over the three units that you will be taught every block.**_ -->
 
 ## Assessment
 
-<!-- At the end of Block 1 (halfway through the Spring Term) and at the end of Block 2 (at the end of the Summer Term), you will be assessed individually. The two units I teach (Unit 1 and Unit 4) are assessed in the same way, via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 hour to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 2 hours to complete the Practical Exam.
+Assessment for this unit is a 2000-3500 word essay, due **30th January 2023.**
 
-I would STRONGLY encourage you to complete the mocks when I issue them for both Units 1 and 4 multiple choice/practical exams - not just to practice them, but to practice SUBMITTING your work - last year I had several students fail exams because they submitted the wrong files for their practical exams, or didn't submit their multiple choice tests correctly.
+You will be supplied a list of 10 prompts relating to the material we have covered this term, and will be expected to explore one with respect to a specific machine learning model and sociotechnical system. 
 
-You can find [the first year of the Diploma Unit 1 Multiple Choice test here](https://jgl.github.io/CCIDiploma-AutumnWinter2020/pdf/2020_01_20_Unit1MultipleChoiceTest.pdf) and [the first year of the Diploma Unit 1 Practical exam here](https://jgl.github.io/CCIDiploma-AutumnWinter2020/pdf/2020_01_27_Unit1PracticalExam.pdf). -->
-
-<!-- Units 2 and 5 are assessed via an essay.
-
-Units 3 and 6 are assessed via the submission of a 5 minute video and accompanying PDF document. -->
-
-<!-- ## Experiment/Play exercises
-
-In addition to the **formal assessment** at the end of **Blocks 1 and 2**, we will be participating in weekly **Experiment/play** workshops. We will discuss and work on the weekly exercises in groups of three on Monday afternoons during the **Experiment/play** hour. The weekly **Experiment/play** exercises won't be assessed, but will be in your interest to complete.
-
-The **Experiment/play** exercises will be based on excerpts from [Code as Creative Medium: An educator's handbook](https://mitpress.mit.edu/books/code-creative-medium) by [Golan Levin](http://flong.com/) and [Tega Brain](http://tegabrain.com/).
-
-This of idea of small technical exercises was inspired by [Caitlin Morris](http://www.caitlinmorris.net/) and her advice:
-
-> Remind students that technical exercises can be the root of a bigger idea. I’ve had students submit small sketches along with their introductory exercises under the prompt of “if I worked on this for another month/year, what could it become?”. Some really beautiful ideas emerge and I’ve found that it makes students more concept-attentive in their weekly projects, as well as providing some groundwork for larger final projects.
-
-~~Throughout the term, you will be working in pairs. This is a technique known as [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). You may change pair partner as often or sparingly as you like.~~
-
-Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104?s=11">latest research</a>, I've decided to shift us from pairs to threes. After all, <a href="https://www.youtube.com/watch?v=np0YIaHv6LQ">three is a magic number</a>. -->
-
-<!-- ## Block 1, Unit 1 schedule: -->
-
-## Week 1 - Thursday 29th September 2022 - Machines, Materials and Methaphors:
-
-<!-- ### Hour 1 
+Individual tutorials and group technical workshops will be held after winter break to help you develop your draft. 
 
 
-- Introduction to the diploma - Murad (30 Mins) 
+# Unit Schedule
 
-- Group Ice Breaker (20mins)
+## Week 1: Machines, Materials and Metaphors (28/09)
 
-   - Split into groups and discuss: What is creative computing? 
-   - Class Disucssion (10mins) 
+### Summary 
 
+This week introduces students to the aims of the unit, giving them an insight into the themes they will cover and the tools they will use. 
 
-### Hour 2
+Students will learn about the the relationship between AI and machine learning, contemporary creative uses of AI and critically explore the role of machine learning in society. No preparation is required for this class. 
 
-
-- Unit Team Introductions (20 Mins)
-
-  - Pauline (5 Mins)
-  - Tom (5 Mins)
-  - Nicola (5 Mins)
-  - Irti (5 Mins)
-
-- General unit overview - Irti (10 Mins)
-
-- Examples (30 Mins)
-   - Work that students may produce/develop/draw upon - Tom (10 Mins)
-- An overview of historical/theoretical/artists content - Pauline (5 Mins)
-- Break (15 Mins)
+### Reading/Resources
 
 
-### Hour 3
+#### Primary
 
-- Git - Irti (15 Mins)
-   - Introduction (5 Mins)
-   - Setup (10 Mins)
-- VS Code - Irti (10 Mins)
-   - Introduction (2 Mins)
-   - Setup (8 Mins)
-- Introduction to theories/histories - Pauline (30 Mins)
+Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources,” AI Now Institute and Share Lab, (September 7, 2018)  
 
+[https://anatomyof.ai](https://anatomyof.ai) 
 
-### Hour 4 
+#### Secondary
 
-- Introduction to theories/histories (Continued) - Pauline (15 Mins)
-
-- Break (10 Mins)
-
-- Intro to command line - Tom (35 Mins)
-
-   - Commandline introduction (history and why it's of interest) and demo (15 Mins)
-   - Group Activity (20 Mins)
+Pasquinelli, M. and Joler, V., 2020. The Nooscope manifested: AI as instrument of knowledge extractivism. AI & society, pp.1-18.
 
 
+## Week 2: Datasets and Platform Labour
 
-### Reading/Resources 
+This week introduces students to the concept of data + datasets. We’ll explore the process of classification, focusing on the role of features and class labels as well exploring the politics of microwork & platform labour in the construction of machine learning models.  
 
-Chun, W.H.K., 2011. Programmed visions: Software and memory. Mit Press. Pp.1-11 
 
-sHicks, M., 2017. Programmed inequality: How Britain discarded women technologists and lost its edge in computing. MIT Press. 
+### Reading/Resources
 
-Liu, W. 2018. Freedom isn’t Free. Logic Magazine. Issue 5, Failure.  
 
-Trevorssah, A. 2016. A Brief History of the Command Line. Free Code Camp. https://www.freecodecamp.org/news/the-command-line-1fdbc692b3bf 
+#### Primary
 
-Ritchie, D.M. 1977. The UNIX Time-sharing System - A Retrospective*. Bell Laboratories. 
+Malevé, N. On the data set's ruins. Al & Soc (2020).
+Lev Manovich, "Data," in Critical Terms in Futures Studies, ed. Paul Heike, Palgrave, 2019.
 
-YoHa. 2013. Lions’ Commentary on UNIX 6th Edition, with Source Code. http://yoha.co.uk/node/678.  -->
-
-<br>
-
-## Week 2 -  :
 
