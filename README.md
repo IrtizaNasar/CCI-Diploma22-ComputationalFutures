@@ -119,3 +119,8 @@ This week introduces students to the concept of data + datasets. We’ll explore
 - Lev Manovich, "Data," in Critical Terms in Futures Studies, ed. Paul Heike, Palgrave, 2019.
 
 
+### Secondary 
+
+- Denton, E., Hanna, A., Amironesei, R., Smart, A. and Nicole, H., 2021. On the genealogy of machine learning datasets: A critical history of ImageNet. Big Data & Society, 8(2), p.20539517211035955.
+
+
