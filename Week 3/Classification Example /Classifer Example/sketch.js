@@ -1,10 +1,5 @@
 // Feature Extractor Classification
-// A Beginner's Guide to Machine Learning with ml5.js
-// The Coding Train / Daniel Shiffman
-// https://youtu.be/eeO-rWYFuG0
-// https://thecodingtrain.com/learning/ml5/3.1-feature-extractor-classification.html
-// https://editor.p5js.org/codingtrain/sketches/5A_TJHA1
-
+// Adapted from The Coding Train by Daniel Shiffman https://editor.p5js.org/codingtrain/sketches/5A_TJHA1
 // (This sketch is not working in safari)
 
 let mobilenet;
@@ -20,17 +15,21 @@ let trainButton;
 function modelReady() { 
   console.log('Model is ready!!!'); // Tells us when the model is loaded and ready to be used
   
-  // classifier.load('model.json', customModelReady) // Loading in the model 
+  // classifier.load('model.json', customModelReady) // Loading in the model. Place model.json in same folder as sketch.js 
 }
+
+// function customModelReady() {
+//   console.log('Custom Model is ready!!!');
+// }
 
 function videoReady() { // A callback just to let us know that the video is ready 
   console.log('Video is ready!!!');
 }
 
-function whileTraining(loss) {
+function whileTraining(loss) { // Runs during training process and reports back the loss in the console
   if (loss == null) {
     console.log('Training Complete');
-    classifier.classify(gotResults);
+    classifier.classify(gotResults); // When training is complete asking it to classify the results
   } else {
     console.log(loss);
   }
@@ -55,8 +54,8 @@ function setup() {
   mobilenet = ml5.featureExtractor('MobileNet', modelReady); // Extracting the pre-learned features from MobileNet model
   classifier = mobilenet.classification(video, videoReady); // Making a classification object from the feature extractor 
 
-  happyButton = createButton('happy');
-  happyButton.mousePressed(function() {
+  happyButton = createButton('happy'); // Creating a button for Happy
+  happyButton.mousePressed(function() { // Basically this is saying when a button is pressed run this function. The function adds the image captured with the label happy 
     classifier.addImage('happy');
   });
 
