@@ -14,15 +14,15 @@ function modelReady() {
   console.log('Model is ready!!!'); // Tells us when the model is loaded and ready to be used
 }
 
-function customModelReady() {
-  console.log('Custom Model is ready!!!');
-  classifier.classify(gotResults);
-}
+// function customModelReady() {
+//   console.log('Custom Model is ready!!!');
+//   classifier.classify(gotResults);
+// }
 
 function videoReady() {
   // A callback just to let us know that the video is ready
   console.log('Video is ready!!!');
-  classifier.load('./model/model.json', customModelReady); // Loading in the model. Place model.json in same folder as sketch.js
+  // classifier.load('./model/model.json', customModelReady); // Loading in the model. Place model.json in same folder as sketch.js
 }
 
 function whileTraining(loss) {
